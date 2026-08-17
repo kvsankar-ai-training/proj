@@ -12,7 +12,9 @@ This captures the API schema.
 
 Code for the backend. 
 Add some backend impl.
+Add the second set of backend changes. 
 
 # Frontned Impl 
 
-Code for the frontend, 
+Code for the frontend.
+Add some frontend code. 
